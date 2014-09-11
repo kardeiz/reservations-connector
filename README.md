@@ -1,1 +1,1 @@
-A Sinatra app to connect with phpScheduleIt using the Room Wizard API.
+A Sinatra app enabling Room Wizard devices to connect with phpScheduleIt using the Room Wizard API.
